@@ -46,6 +46,7 @@ const Home = () => {
             <div className='flex flex-rows-2 border rounded-2xl py-5 px-3'>
                 <img src={Ellipse_1} alt="" className='px-10 '/>
                 <p className='py-5 content-center'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus in libero risus</p>
+                
             </div>
         </div>
     </div>
