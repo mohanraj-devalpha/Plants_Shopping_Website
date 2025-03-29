@@ -9,9 +9,9 @@ const UpperContainer = () => {
         <div className='grid grid-cols-2 justify-between'>
           <div className='bg-[#F2F2F2] rounded-br-[300px] space-y-15 px-20 py-30'>
           <div className='space-y-12'>
-            <div className='text-6xl space-y-3 font-bold'>
-              <h1 className=''>Bring  <span className='text-[#437223]'>GREEN</span> to your home</h1>
-              
+            <div className='text-6xl font-bold'>
+              <h1 className=''>Bring  <span className='text-[#437223]'>GREEN</span>to </h1>
+              <span>your home and</span>
               <p>make you feel  <span className='text-[#437223]'>BETTER</span></p>
             </div>
             <p className='text-2xl pr-50'>Plants are essential for life on Earth, providing oxygen, food, and shelter. They thrive through photosynthesis, converting sunlight into energy</p>
