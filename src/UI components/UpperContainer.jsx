@@ -10,7 +10,7 @@ const UpperContainer = () => {
           <div className='bg-[#F2F2F2] rounded-br-[300px] space-y-15 px-20 py-30'>
           <div className='space-y-12'>
             <div className='text-6xl space-y-3 font-bold'>
-              <h1 className=''>Bring  <span className='text-[#437223]'>GREEN</span> to</h1>
+              <h1 className=''>Bring  <span className='text-[#437223]'>GREEN</span> to your home</h1>
               
               <p>make you feel  <span className='text-[#437223]'>BETTER</span></p>
             </div>
