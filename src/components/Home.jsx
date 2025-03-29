@@ -10,7 +10,7 @@ import UpperContainer from '../UI components/UpperContainer.jsx'
 
 const Home = () => {
   return (
-    <div className='flex flex-col space-y-10 border h-full w-full '>
+    <div className='flex flex-col space-y-10 border '>
         <UpperContainer />
         <BottomCards />
     </div>

@@ -9,8 +9,8 @@ const UpperContainer = () => {
         <div className='grid grid-cols-2 justify-between'>
           <div className='bg-[#F2F2F2] rounded-br-[300px] space-y-15 px-20 py-30'>
           <div className='space-y-12'>
-            <div className='text-6xl font-bold'>
-              <h1 className=''>Bring  <span className='text-[#437223]'>GREEN</span>to </h1>
+            <div className='text-6xl flex flex-col font-bold'>
+              <h1 className=''>Bring  <span className='text-[#437223]'>GREEN</span> to </h1>
               <span>your home and</span>
               <p>make you feel  <span className='text-[#437223]'>BETTER</span></p>
             </div>
@@ -23,7 +23,7 @@ const UpperContainer = () => {
           </div>
           <button className='bg-[#437223] text-amber-50 px-18 py-5 text-2xl rounded-full'>Find your plant</button>
           </div>
-          <div className='absolute right-55 top-55'>
+          <div className='absolute right-40 top-55'>
             <img src={Pot} alt="" className=''/>
           </div>
           <div className='absolute right-55 top-45'>
