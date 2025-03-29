@@ -8,7 +8,7 @@ import Counter from "./Counter.jsx"
 
 const Home = () => {
   return (
-    <div className='flex flex-col space-y-10 border px-10 h-full w-full '>
+    <div className='flex flex-col space-y-10 border h-full w-full '>
         <div className='grid grid-cols-2 justify-between'>
           <div className='bg-[#F2F2F2] rounded-br-[300px] space-y-15 px-20 py-30'>
           <div className='space-y-12'>
