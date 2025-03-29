@@ -24,7 +24,7 @@ const Counter = ({ end = 100, duration = 3000 }) => {
 
   return (
     <div className="flex flex-col space-y-2">
-      <span className=" font-bold text-4xl">
+      <span className=" font-bold text-2xl md:text-3xl lg:text-4xl ">
         {count}+
       </span>
       <p className="">Lorem ipsum consectetur</p>
